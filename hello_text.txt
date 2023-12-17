@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 QWERTY
+=======
+qwerty
+>>>>>>> new_branch
